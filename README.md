@@ -1,4 +1,4 @@
 # start
 神奇的影视
-# yingshi
+删除后边的.png
 # yingshi
